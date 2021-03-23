@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daniel Walker
-- 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning React, JavaScript and Design Fundamentals
+- 👀 I’m interested in Full Stack Engineering and providing optimal project documentation.
+- 🌱 I’m currently learning React and DS & Algorithms
 - 📫 How to reach me - danielbednarz2@gmail.com
 
 <!---
