@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Daniel Walker 👋
-- 👀 I’m interested in Full Stack Engineering and providing optimal project documentation. 👀
-- 🌱 Currently learning all about Data Structures & Algorithms. 🌱
+- 🖥️ Full Stack Engineer 🖥️
+- 💡 Documentation + Test-Driven + DevOps 💡
+- 🌱 Currently learning Data Structures & Algorithms. 🌱
 - 📫 How to reach me - danielbednarz2@gmail.com 📫
 
 <!---
